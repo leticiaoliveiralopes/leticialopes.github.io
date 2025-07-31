@@ -21,7 +21,7 @@ Soon, you’ll find a complete list of my publications and scientific contributi
 
 🔗 **External profile:**
 
-<a href="https://scholar.google.com/citations?user=SEU_ID" target="_blank" rel="noopener noreferrer">
+<a href="https://scholar.google.com/citations?hl=en&user=qnsQkZQAAAAJ" target="_blank" rel="noopener noreferrer">
   <i class="fab fa-google-scholar" style="margin-right: 6px;"></i>
   Google Scholar Profile
 </a>
