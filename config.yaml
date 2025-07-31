@@ -17,7 +17,7 @@ pagination:
     - \.utf8\.md$
   pagerSize: 5
   preserveTaxonomyNames: yes
-  paginate: 10
+  pagerSize: 10
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
@@ -46,7 +46,7 @@ params:
     reactions_enabled: '1'
     repo: apreshill/apero
     repo_id: '[REPO ID]='
-    theme: sky
+    theme: light
   headingFontFamily: sans-serif
   logo: /img/logo_color.png
   mainSections:
@@ -70,21 +70,21 @@ params:
       icon_pack: fab
       url: https://www.linkedin.com/in/let%C3%ADcia-lopes/
     - icon: google-scholar
-      icon_pack: ai
+      icon_pack: fab
       url: https://scholar.google.com/citations?hl=en&user=qnsQkZQAAAAJ
     - icon: orcid
-      icon_pack: ai
+      icon_pack: fab
       url: https://orcid.org/0000-0003-2020-9269
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
-  theme: solarizedLight
+  theme: sky
   twitter: leticiaespinoso
   utterances:
     issue_term: pathname
     label: 'comments :crystal_ball:'
     repo_name: apreshill/apero
-    theme: solarizedLight
+    theme: light
 taxonomies:
   category: categories
   series: series

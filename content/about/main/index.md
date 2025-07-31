@@ -1,9 +1,13 @@
 ---
-title: "Main Section"
-weight: 2
+## Configure page content in wide column
+title: "Featured" # leave blank to exclude
+number_featured: 1 # pulling from mainSections in config.toml
+number_categories: 3 # set to zero to exclude
+show_intro: true
+intro: |
+  These are a few projects I’ve contributed to along the way. I’m still growing in the field, but I’m always open to learning from others and exchanging ideas, [please I’m just a message away <i class="fa-regular fa-face-smile-beam"></i>](/contact)!
 draft: false
 ---
 
-I'm passionate about understanding the interplay between cancer and the immune system.  
-Currently, I explore tumor--immune interactions in cSCC using RNA-seq, immune profiling, and digital pathology. Previously, I worked on cancer cachexia and large-scale transcriptomic analysis using TCGA/GEO.  
-I'm interested in how computational biology and translational research intersect.
+** index doesn't contain a body, just front matter above.
+See about/list.html in the layouts folder **
