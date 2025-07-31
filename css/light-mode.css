@@ -1,0 +1,33 @@
+/* Color styles for light mode.
+ * Adjust the colors as necessary to harmonize with the palette.
+ */
+
+body {
+  background-color: #eaf2ef; /* bg */
+  color: #2e2e2e;            /* text */
+}
+
+/* Adjusts the color of titles in light mode */
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6,
+body .site-title,
+body .f2 {
+  color: #a95065 !important;
+}
+
+
+/* Links in light mode */
+body a {
+  color: #173f48 !important;
+}
+
+/* Navigation and footer with the same background as the body */
+.site-header,
+.site-footer {
+  background-color: #eaf2ef;
+}
+
