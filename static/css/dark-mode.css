@@ -4,7 +4,7 @@
 
 body.dark-mode {
   background-color: #202a32; /* bg */
-  color: #ffffff;            /* text */
+  color: #eaf2ef;            /* text */
 }
 
 /* Adjusts the color of titles in dark mode */
@@ -13,13 +13,15 @@ body.dark-mode h2,
 body.dark-mode h3,
 body.dark-mode h4,
 body.dark-mode h5,
-body.dark-mode h6 {
-  color: #912f56;
+body.dark-mode h6,
+body.dark-mode .site-title,
+body.dark-mode .f2 {
+  color: #912c53 !important;
 }
 
 /* Links in dark mode */
 body.dark-mode a {
-  color: #A0DAA9;
+  color: #A0DAA9 !important;
 }
 
 /* Navigation and footer with the same background as the body */

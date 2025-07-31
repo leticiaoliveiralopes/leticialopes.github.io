@@ -9,12 +9,13 @@
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{ end }}
   {{ $styles := resources.Get "scaffold.scss" | resources.ExecuteAsTemplate "style.main.scss" . | toCSS | minify | fingerprint }}
-  <link rel="stylesheet" href="{{ "css/dark-toggle.css" | relURL }}" />
+   {{ $styles := resources.Get "scaffold.scss" | resources.ExecuteAsTemplate "style.main.scss" . | toCSS | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
- 
- <!-- dark toggle--> 
+
+  <!-- color style -->
+  <link rel="stylesheet" href="{{ "css/light-mode.css" | relURL }}">
   <link rel="stylesheet" href="{{ "css/dark-toggle.css" | relURL }}">
-  <link rel="stylesheet" href="{{ "css/dark-mode.css"  | relURL }}">
+  <link rel="stylesheet" href="{{ "css/dark-mode.css" | relURL }}">
 
   <!-- panelset.js -->
   {{ $panelsetJs := resources.Get "js/panelset.js" | js.Build "panelset.js" | minify | fingerprint }}
