@@ -1,9 +1,9 @@
-baseURL: https://www.example.org/
+baseURL: /
 theme: hugo-apero
 languageCode: en
-title: Hugo Apéro
-author: Alison Hill
-copyright: ''
+title: Letícia Lopes
+author: Letícia Lopes
+copyright: © 2025 Letícia Lopes
 googleAnalytics: ''
 metaDataFormat: yaml
 footnoteReturnLinkContents: '&#8617;'
@@ -17,6 +17,7 @@ pagination:
     - \.utf8\.md$
   pagerSize: 5
   preserveTaxonomyNames: yes
+  paginate: 10
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
@@ -33,9 +34,9 @@ params:
   comments: utterances
   custom_theme: ''
   customheadingFontFamily: Fraunces
-  customtextFontFamily: Commissioner
-  description: A modern, beautiful, and easily configurable blog theme for Hugo.
-  favicon: /img/favicon.ico
+  customtextFontFamily: Bitter
+  description: Bioinformatics | Systems Biology | Digital Pathology | OMICs
+  favicon: /img/logo_color.png
   giscus:
     category: Comments
     category_id: '[category ID]'
@@ -45,19 +46,19 @@ params:
     reactions_enabled: '1'
     repo: apreshill/apero
     repo_id: '[REPO ID]='
-    theme: light
+    theme: sky
   headingFontFamily: sans-serif
-  logo: /img/blogophonic-mark-dark.png
+  logo: /img/logo_color.png
   mainSections:
-    - blog
+    - punlications
     - project
-    - talk
+    - CV
   math:
     renderer: katex
   navallcaps: yes
-  orgLocal: Anywhere
-  orgName: RStudio
-  sharing_image: /img/papillons.jpg
+  orgLocal: 
+  orgName: Letícia Lopes
+  sharing_image: /img/logo_color.png
   social:
     - icon: github
       icon_pack: fab
@@ -65,25 +66,25 @@ params:
     - icon: bluesky
       icon_pack: fab
       url: https://bsky.app/profile/leticiaespinoso.bsky.social
-    - icon: instagram
+    - icon: linkedin
       icon_pack: fab
-      url: https://www.instagram.com/leticiaeoliveira
-    - icon: x-twitter
-      icon_pack: fab
-      url: https://x.com/leticiaespinoso
+      url: https://www.linkedin.com/in/let%C3%ADcia-lopes/
+    - icon: google-scholar
+      icon_pack: ai
+      url: https://scholar.google.com/citations?hl=en&user=qnsQkZQAAAAJ
     - icon: orcid
       icon_pack: ai
       url: https://orcid.org/0000-0003-2020-9269
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
-  theme: sky
-  twitter: apreshill
+  theme: solarizedLight
+  twitter: leticiaespinoso
   utterances:
     issue_term: pathname
     label: 'comments :crystal_ball:'
     repo_name: apreshill/apero
-    theme: boxy-light
+    theme: solarizedLight
 taxonomies:
   category: categories
   series: series
@@ -104,7 +105,7 @@ menu:
       weight: 3
   header:
     - name: About
-      title: About
+      title: About me
       url: /about/
       weight: 1
     - name: Projects

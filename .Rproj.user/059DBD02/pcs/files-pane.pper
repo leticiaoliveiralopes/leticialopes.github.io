@@ -2,8 +2,8 @@
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": true
+            "ascending": false
         }
     ],
-    "path": "~/leticialopesblog/leticialopesblog/leticialopes_apero"
+    "path": "~/leticialopesblog/leticialopesblog/leticialopes_apero/themes/hugo-apero/static/img"
 }
