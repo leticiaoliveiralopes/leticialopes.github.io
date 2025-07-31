@@ -1,0 +1,30 @@
+/* Color styles for dark mode.
+ * Adjust the colors as necessary to harmonize with the palette.
+ */
+
+body.dark-mode {
+  background-color: #202a32; /* bg */
+  color: #ffffff;            /* text */
+}
+
+/* Adjusts the color of titles in dark mode */
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6 {
+  color: #912f56;
+}
+
+/* Links in dark mode */
+body.dark-mode a {
+  color: #A0DAA9;
+}
+
+/* Navigation and footer with the same background as the body */
+body.dark-mode .site-header,
+body.dark-mode .site-footer {
+  background-color: #202a32;
+}
+
