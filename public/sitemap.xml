@@ -185,6 +185,8 @@
   </url><url>
     <loc>//localhost:1313/publication/</loc>
   </url><url>
+    <loc>//localhost:1313/publication/orcid/</loc>
+  </url><url>
     <loc>//localhost:1313/links/</loc>
   </url>
 </urlset>

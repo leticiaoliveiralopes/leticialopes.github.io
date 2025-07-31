@@ -37,6 +37,8 @@ params:
   customtextFontFamily: Bitter
   description: Bioinformatics | Systems Biology | Digital Pathology | OMICs
   favicon: /img/logo_color.png
+  customJS: js/dark-mode.js
+  customCSS: css/dark-toggle.css
   giscus:
     category: Comments
     category_id: '[category ID]'
@@ -46,7 +48,7 @@ params:
     reactions_enabled: '1'
     repo: apreshill/apero
     repo_id: '[REPO ID]='
-    theme: light
+    theme: solarizedLight
   headingFontFamily: sans-serif
   logo: /img/logo_color.png
   mainSections:
@@ -84,7 +86,7 @@ params:
     issue_term: pathname
     label: 'comments :crystal_ball:'
     repo_name: apreshill/apero
-    theme: light
+    theme: solarizedLight
 taxonomies:
   category: categories
   series: series
@@ -99,10 +101,6 @@ menu:
       title: Contact form
       url: /contact/
       weight: 2
-    - name: Contributors
-      title: Contributors
-      url: /contributors/
-      weight: 3
   header:
     - name: About
       title: About me

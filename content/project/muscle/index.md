@@ -30,7 +30,7 @@ miR-155-5p and myotube differentiation: Functional assays demonstrated the role 
 miR-497-5p and IL-6-induced atrophy: We showed that decreased miR-497-5p expression contributes to inflammatory muscle wasting, identifying key transcripts regulated by this microRNA in the context of IL-6 signaling.
 Integration of transcriptome and microRNAome: Combining bulk RNA-seq and miRNA expression data allowed us to construct regulatory networks linking inflammation, muscle degeneration, and microRNA control.
 
-## Publications :books:
-:page_facing_up: **Lopes, L.O.**, Cury, S.S., de Moraes, D., Oliveira, J.S., et al. _The impact of miR-155-5p on myotube differentiation: elucidating molecular targets in skeletal muscle disorders_. **International Journal of Molecular Sciences**, 25(3), 1777 (2024). doi:10.3390/ijms25031777
+## Publications 📚
+📄 **Lopes, L.O.**, Cury, S.S., de Moraes, D., Oliveira, J.S., et al. _The impact of miR-155-5p on myotube differentiation: elucidating molecular targets in skeletal muscle disorders_. **International Journal of Molecular Sciences**, 25(3), 1777 (2024). doi:10.3390/ijms25031777
 
-:page_facing_up: Freire, P.P., Cury, S.S., **Lopes, L.O.**, Fernandez, G.J., et al. _Decreased miR-497-5p suppresses IL-6 induced atrophy in muscle cells_, **Cells**, 10(12), 3527 (2021). doi:10.3390/cells10123527
+📄 Freire, P.P., Cury, S.S., **Lopes, L.O.**, Fernandez, G.J., et al. _Decreased miR-497-5p suppresses IL-6 induced atrophy in muscle cells_, **Cells**, 10(12), 3527 (2021). doi:10.3390/cells10123527
