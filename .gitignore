@@ -1,5 +1,29 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-.DS_Store
+# Automatically generated files 
+public/ 
+resources/ 
+.DS_Store 
+Thumbs.db 
+ECHO is on.
+# RStudio temporary files 
+.Rproj.user/ 
+.Rhistory 
+.RData 
+.Ruserdata 
+*.Rproj 
+ECHO is on.
+# Hugo temporary files 
+hugo_stats.json 
+ECHO is on.
+# Logs and cache 
+*.log 
+*.tmp 
+*.swp 
+*.bak 
+ECHO is on.
+# IDE settings 
+.idea/ 
+.vscode/ 
+ECHO is on.
+# OS-specific files 
+ehthumbs.db 
+desktop.ini 
