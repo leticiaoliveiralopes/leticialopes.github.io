@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Bioinformatics | Systems Biology | Digital Pathology | OMICs
+description: Bioinformatics | Systems Biology | Multi-omics
 image_left: true
 show_action_link: true
 show_social_links: true

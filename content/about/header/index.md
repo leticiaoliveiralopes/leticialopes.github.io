@@ -15,8 +15,8 @@ I am a Master's student in Molecular Medicine at Charité - Universitätsmedizin
 
 During my first research rotation at Charité, I investigated tumor--immune interactions in cutaneous squamous cell carcinoma, combining RNA-seq analysis, immune profiling, and digital pathology. This project sparked my passion for integrating bioinformatics and image analysis to understand mechanisms of tumor progression and responses to immunotherapy.
 
-Previously, I explored cancer cachexia using transcriptomic datasets, including TCGA and GEO, identifying key molecular signatures involved in inflammation and muscle wasting. This experience strengthened my skills in large-scale data analysis and deepened my interest in the molecular underpinnings of cancer-associated syndromes.
+Since my undergraduate studies, I have worked with bulk transcriptomic data from TCGA and GEO, focusing on tumor-immune interactions in the context of cancer cachexia and microRNA-mediated regulation. Over time, I have developed a growing interest in how transcriptomic and epigenetic layers intersect in shaping the tumor microenvironment. This has motivated me to pursue a more integrated view of gene regulation across different molecular layers.
 
-I'm particularly interested in the convergence of immuno-oncology, computational biology, and translational research - and how integrative, multi-modal strategies can support both discovery and clinical application. I also gained industry experience working in clinical trials across oncology and neurology, and was awarded the Bayer Foundation Carl Duisberg Fellowship for Medical Sciences.
+I'm particularly interested in the convergence of immuno-oncology, computational biology, and translational research, and how integrative, multi-modal strategies can support both discovery and clinical application. I also gained industry experience working in clinical trials across oncology and neurology.
 
 Outside the lab, you'll likely find me exploring a new café in Berlin, watching football, or turning complex data into visual stories.
