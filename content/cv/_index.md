@@ -32,6 +32,6 @@ cascade:
     show_sidebar_adunit: false # show ad container
 ---
 
-I do my best to keep my CV updated here - but for the latest version, just drop me a message! :)
+I do my best to keep my CV updated here - but for the latest version, [just drop me a message <i class="fa-solid fa-envelope"></i>](/contact)! 
 
 [PDF](CV_leticia_web.pdf)

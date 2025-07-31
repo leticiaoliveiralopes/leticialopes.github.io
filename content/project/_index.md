@@ -1,19 +1,19 @@
 ---
-title: Ongoing and Past Projects
+title: My research experience so far
 #description: "An overview of the research and collaborations I've been part of."
 author: "Letícia Lopes"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
-layout: list-grid
+layout: list
+showMore: false
 
 sidebar: 
   title: Research & Collaborations
   description: |
-    This space will showcase some of the projects I've contributed to — 
+    This space will showcase some of the projects I've contributed to
     from translational research and clinical studies to data analysis 
-    and digital pathology workflows.
-    
+    and digital pathology workflowsd
     Stay tuned for updates!
   show_sidebar_adunit: false
 

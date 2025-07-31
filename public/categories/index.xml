@@ -7,8 +7,57 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2025 Letícia Lopes</copyright>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bioinformatics</title>
+      <link>//localhost:1313/categories/bioinformatics/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/bioinformatics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Molecular Medicine</title>
+      <link>//localhost:1313/categories/molecular-medicine/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/molecular-medicine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Translational Oncology</title>
+      <link>//localhost:1313/categories/translational-oncology/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/translational-oncology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Colaboration</title>
+      <link>//localhost:1313/categories/colaboration/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/colaboration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transcriptomics</title>
+      <link>//localhost:1313/categories/transcriptomics/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/transcriptomics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gene Regulation</title>
+      <link>//localhost:1313/categories/gene-regulation/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/gene-regulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Molecular Biology</title>
+      <link>//localhost:1313/categories/molecular-biology/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/molecular-biology/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Theme Features</title>
       <link>//localhost:1313/categories/theme-features/</link>
